@@ -1,0 +1,17 @@
+﻿  server.cpp
+C:\Users\zjx\source\repos\Project3\Project3\server.cpp(176,24): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\zjx\source\repos\Project3\Project3\server.cpp(177,21): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\zjx\source\repos\Project3\Project3\server.cpp(195,56): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zjx\source\repos\Project3\Project3\server.cpp(214,19): warning C4309: “=”: 截断常量值
+C:\Users\zjx\source\repos\Project3\Project3\server.cpp(242,19): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+C:\Users\zjx\source\repos\Project3\Project3\server.cpp(252,19): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+C:\Users\zjx\source\repos\Project3\Project3\server.cpp(270,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zjx\source\repos\Project3\Project3\server.cpp(159,36): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\zjx\source\repos\Project3\Project3\server.cpp(315,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zjx\source\repos\Project3\Project3\server.cpp(354,18): warning C4309: “=”: 截断常量值
+C:\Users\zjx\source\repos\Project3\Project3\server.cpp(355,48): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\zjx\source\repos\Project3\Project3\server.cpp(374,15): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\zjx\source\repos\Project3\Project3\server.cpp(374,15): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\zjx\source\repos\Project3\Project3\server.cpp(416,20): warning C4309: “=”: 截断常量值
+C:\Users\zjx\source\repos\Project3\Project3\server.cpp(426,45): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Project3.vcxproj -> C:\Users\zjx\source\repos\Project3\x64\Debug\Project3.exe
