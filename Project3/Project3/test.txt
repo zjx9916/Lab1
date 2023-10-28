@@ -1,9 +1,8 @@
-BEIJING -- The Chinese mainland on Thursday reported 68 new locally transmitted COVID-19 cases, the National Health Commission said in its daily report on Friday.
+BEIJING -- The Chinese mainland on Thursday reported 68 new locally transmitted COVID-19 cases, the National Health Commission said in its daily report on Friday.1
 
 Of the new local cases, 28 were reported in Heilongjiang, 10 in Hebei, eight in Liaoning, five each in Henan and Gansu, four in Ningxia, two each in Inner Mongolia, Jiangxi and Sichuan, and one each in Guizhou and Yunnan.
 
-<<<<<<< HEAD
-=======
+
 
 The total number of confirmed COVID-19 cases on the mainland had reached 97,605 by Thursday, including 1,129 patients still receiving treatment, 37 of whom were in sever
 A total of 91,840 patients had been discharged from hospitals following recovery on the mainland, and 4,636 had died as a result of the virus.
