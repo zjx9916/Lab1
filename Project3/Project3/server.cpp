@@ -21,7 +21,6 @@ BOOL ack[SEQ_SIZE];//收到 ack 情况，对应 0~19 的 ack
 int curSeq;//当前数据包的 seq
 int curAck;//当前等待确认的 ack
 int totalPacket;//需要发送的包总数
-/****************************************************************/
 /*
 	-time 从服务器端获取当前时间
 	-quit 退出客户端
