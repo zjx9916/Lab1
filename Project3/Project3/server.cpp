@@ -356,6 +356,7 @@ int server(int err)
 					Sleep(100);
 					stage = 1;
 					break;
+					//aaaaaaa
 				case 1://等待接收 200 阶段，没有收到则计数器+1，超时则放弃此次“连接”，等待从第一步开始
 					recvSize = recvfrom(sockServer, buffer, BUFFER_LENGTH, 0, ((SOCKADDR*)&addrClient), &length);
 					if (recvSize < 0) {
